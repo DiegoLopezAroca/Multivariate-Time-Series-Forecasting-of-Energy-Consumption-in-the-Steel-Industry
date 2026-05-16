@@ -40,3 +40,5 @@ traitlets==5.14.3
 tzdata==2026.1
 wcwidth==0.6.0
 tqdm==4.66.1
+chronos-forecasting
+statsmodels
