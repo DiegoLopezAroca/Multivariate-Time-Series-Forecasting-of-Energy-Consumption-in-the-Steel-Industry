@@ -29,7 +29,7 @@ A complete time series forecasting pipeline applied to electricity consumption d
 
 ---
 
-## 🔍 Dataset
+## Dataset
 
 The dataset records electricity consumption and related electrical variables from a steel manufacturing plant at **15-minute intervals** throughout 2018. Key features include:
 
