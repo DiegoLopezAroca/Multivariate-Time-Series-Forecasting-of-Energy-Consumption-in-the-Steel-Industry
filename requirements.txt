@@ -40,5 +40,6 @@ traitlets==5.14.3
 tzdata==2026.1
 wcwidth==0.6.0
 tqdm==4.66.1
+ipywidgets==8.1.8
 chronos-forecasting
 statsmodels
